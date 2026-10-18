@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/PyCQA/pep8-naming/commit/1587bfe4ca73800d64a067580a8f6eb1b8dad209",
       "git:hexsha": "1587bfe4ca73800d64a067580a8f6eb1b8dad209",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-18T05:54:59.461572+00:00"
     },
     {
       "@id": "https://repolex.ai/r/PyCQA/pep8-naming/commit/c9720d1bf7e5f6a258f27ea5d94e992a0521dd4c",
