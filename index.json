@@ -1,0 +1,11 @@
+{
+  "org": "PyCQA",
+  "repo": "pep8-naming",
+  "versions": [
+    {
+      "commit": "1587bfe4ca73800d64a067580a8f6eb1b8dad209",
+      "tag": "",
+      "parsed_at": "2026-10-18T05:54:59.462175+00:00"
+    }
+  ]
+}
